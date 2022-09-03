@@ -1,8 +1,6 @@
 # Minesweeper
 Developed a version of the classic Minesweeper game (http://minesweeperonline.com/) using object-oriented programming. Used SFML in the implementation of graphic user interface and windows control.
 
-Rules Overview
-
 The rules of the game are as follows:
 - There exists a board, which contains a grid of spaces. A space could be a mine, or not. The player clicks on a space, and it gets revealed. The goal of the game is to reveal all the spaces that are not mines, while avoiding the spaces that are.
 - When a space is revealed:
